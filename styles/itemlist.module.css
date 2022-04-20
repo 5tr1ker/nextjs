@@ -1,0 +1,21 @@
+.itemname {
+    font-size: 15px;
+    display:block;
+    text-align: center;
+}
+
+.itemprice {
+    font-size: 18px;
+    display: block;
+    text-align: center;
+}
+
+.itemimg {
+    width: 200px;
+    margin: 0 auto;
+}
+
+.items {
+    display: flex;
+    flex-direction: column;
+}
